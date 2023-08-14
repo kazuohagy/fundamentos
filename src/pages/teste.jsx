@@ -1,3 +1,3 @@
 export default function teste(){
-    return "luigi"
+    return "luigi number two"
 }
