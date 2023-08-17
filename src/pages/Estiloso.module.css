@@ -1,6 +1,7 @@
 .roxo {
     height: 100vh;
-    background-color: #670bbd;
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/gaia-25c62.appspot.com/o/Plants%2Fminecraft.webp?alt=media&token=c889beeb-7d63-4d9e-8632-e61ccfad9dcf'); /* Coloque o caminho para a imagem da Terra */
+    /* background-color: #670bbd; */
     color:#FFF;
 }
 .roxo h1{
