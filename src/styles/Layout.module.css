@@ -1,0 +1,26 @@
+.layout {
+     height: 100vh;
+     display:flex;
+     flex-direction:column;
+}
+.cabecalho {
+    display:flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #ccc;
+}
+.cabecalho a{
+    border-radius: 5px;
+    padding: 5px 12px;
+    background-color: #72d762;
+    font-size: 30px;
+}
+.conteudo {
+    flex:1;
+    padding: 20px;
+}
+.rodape {
+    
+   background-image: url('https://firebasestorage.googleapis.com/v0/b/gaia-25c62.appspot.com/o/Plants%2Fminecraft%20texturas%20classicas%20-%2012%20(1).jpg?alt=media&token=6a1326bf-4c95-483d-91ba-6dea77079e03'); /* Coloque o caminho para a imagem da Terra */
+    padding: 20px;
+}
