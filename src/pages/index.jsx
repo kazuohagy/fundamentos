@@ -6,6 +6,7 @@ export default function inicio() {
             <Navegador destino="/" texto="Inicio" cor="#9400d3" />
             <Navegador destino="/estiloso" texto="Estiloso"  />
             <Navegador destino="/app" texto="App" cor="#9400d3" />
+            <Navegador destino="/navegacao" texto="Navegação #01" cor="#D733FF" />
         </div>
     )
 }
