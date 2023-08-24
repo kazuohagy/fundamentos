@@ -11,7 +11,7 @@ export default function Cliente(){
     }, [])
     return (
         <Layout titulo="Navegação Dinâmica">
-            <h1>Cliente #01</h1>
+            <h1>Tela de erro</h1>
             <span>Codigo = {router.query.codigo}</span><br></br>
             <span>Filial = {router.query.filial}</span>
         </Layout>
